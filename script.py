@@ -1,4 +1,5 @@
 #Importações
+#nothing just amazing
 from selenium import webdriver
 from getpass import getpass
 import time
